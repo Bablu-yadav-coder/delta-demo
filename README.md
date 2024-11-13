@@ -5,7 +5,7 @@ This is a Demo for Git &amp; Github class.
 Shradha khapra
 
 # Student
-Bablu yadav
+Bablu yaduvanshi
 
 # college
 Viash college of engineering
