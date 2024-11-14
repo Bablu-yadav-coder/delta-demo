@@ -8,4 +8,4 @@ Shradha khapra
 Bablu yaduvanshi
 
 # college
-Viash college of engineering
+Vaish college of engineering
